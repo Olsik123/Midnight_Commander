@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Midnight Commander_Psotka/1.0.0": {
+        "runtime": {
+          "Midnight Commander_Psotka.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Midnight Commander_Psotka/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

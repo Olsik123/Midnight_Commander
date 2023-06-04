@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Midnight Commander_Psotka", "Midnight Commander_Psotka\Midnight Commander_Psotka.csproj", "{DCCC183D-2145-4A79-8FD4-1650E63C7A7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCCC183D-2145-4A79-8FD4-1650E63C7A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCCC183D-2145-4A79-8FD4-1650E63C7A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCCC183D-2145-4A79-8FD4-1650E63C7A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCCC183D-2145-4A79-8FD4-1650E63C7A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {670B2202-00AE-4F28-99F9-FFB1CD601147}
+	EndGlobalSection
+EndGlobal

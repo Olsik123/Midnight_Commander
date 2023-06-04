@@ -1,0 +1,455 @@
+C:\Users\ooldi\OneDrive\Plocha\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.exe
+C:\Users\ooldi\OneDrive\Plocha\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.deps.json
+C:\Users\ooldi\OneDrive\Plocha\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.json
+C:\Users\ooldi\OneDrive\Plocha\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.dev.json
+C:\Users\ooldi\OneDrive\Plocha\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\ooldi\OneDrive\Plocha\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\ooldi\OneDrive\Plocha\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.AssemblyReference.cache
+C:\Users\ooldi\OneDrive\Plocha\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfoInputs.cache
+C:\Users\ooldi\OneDrive\Plocha\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfo.cs
+C:\Users\ooldi\OneDrive\Plocha\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.CoreCompileInputs.cache
+C:\Users\ooldi\OneDrive\Plocha\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\ooldi\OneDrive\Plocha\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\ooldi\OneDrive\Plocha\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.genruntimeconfig.cache
+C:\Users\Herní Dělo\Desktop\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csprojAssemblyReference.cache
+C:\Users\Herní Dělo\Desktop\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfoInputs.cache
+C:\Users\Herní Dělo\Desktop\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfo.cs
+C:\Users\Herní Dělo\Desktop\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.CoreCompileInputs.cache
+C:\Users\Herní Dělo\Desktop\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\Herní Dělo\Desktop\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\Herní Dělo\Desktop\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.exe
+C:\Users\Herní Dělo\Desktop\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.deps.json
+C:\Users\Herní Dělo\Desktop\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.json
+C:\Users\Herní Dělo\Desktop\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.dev.json
+C:\Users\Herní Dělo\Desktop\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\Herní Dělo\Desktop\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\Herní Dělo\Desktop\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.genruntimeconfig.cache
+X:\midnight com\V4\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.exe
+X:\midnight com\V4\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.deps.json
+X:\midnight com\V4\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.json
+X:\midnight com\V4\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.dev.json
+X:\midnight com\V4\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+X:\midnight com\V4\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+X:\midnight com\V4\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.AssemblyReference.cache
+X:\midnight com\V4\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.GeneratedMSBuildEditorConfig.editorconfig
+X:\midnight com\V4\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfoInputs.cache
+X:\midnight com\V4\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfo.cs
+X:\midnight com\V4\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.CoreCompileInputs.cache
+X:\midnight com\V4\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+X:\midnight com\V4\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+X:\midnight com\V4\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.genruntimeconfig.cache
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\V4\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.exe
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\V4\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.deps.json
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\V4\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.json
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\V4\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.dev.json
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\V4\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\V4\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\V4\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.AssemblyReference.cache
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\V4\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfoInputs.cache
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\V4\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfo.cs
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\V4\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.CoreCompileInputs.cache
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\V4\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\V4\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\V4\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.genruntimeconfig.cache
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\v4.1\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.AssemblyReference.cache
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\v4.1\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfoInputs.cache
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\v4.1\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfo.cs
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\v4.1\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.CoreCompileInputs.cache
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\v4.1\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\v4.1\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\v4.1\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.exe
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\v4.1\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.deps.json
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\v4.1\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.json
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\v4.1\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.dev.json
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\v4.1\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\v4.1\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\v4.1\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.genruntimeconfig.cache
+X:\midnight com\v4.1\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.exe
+X:\midnight com\v4.1\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.deps.json
+X:\midnight com\v4.1\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.json
+X:\midnight com\v4.1\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.dev.json
+X:\midnight com\v4.1\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+X:\midnight com\v4.1\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+X:\midnight com\v4.1\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.AssemblyReference.cache
+X:\midnight com\v4.1\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.GeneratedMSBuildEditorConfig.editorconfig
+X:\midnight com\v4.1\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfoInputs.cache
+X:\midnight com\v4.1\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfo.cs
+X:\midnight com\v4.1\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.CoreCompileInputs.cache
+X:\midnight com\v4.1\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+X:\midnight com\v4.1\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+X:\midnight com\v4.1\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.genruntimeconfig.cache
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\v5\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.exe
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\v5\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.deps.json
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\v5\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.json
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\v5\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.dev.json
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\v5\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\v5\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\v5\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.AssemblyReference.cache
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\v5\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfoInputs.cache
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\v5\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfo.cs
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\v5\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.CoreCompileInputs.cache
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\v5\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\v5\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+\\kacenka.litv.sssvt.cz\StudentiPrenosne\PsotkaOldrich\midnight com\v5\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.genruntimeconfig.cache
+C:\Users\ooldi\OneDrive\Plocha\v5\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.exe
+C:\Users\ooldi\OneDrive\Plocha\v5\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.deps.json
+C:\Users\ooldi\OneDrive\Plocha\v5\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.json
+C:\Users\ooldi\OneDrive\Plocha\v5\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.dev.json
+C:\Users\ooldi\OneDrive\Plocha\v5\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\ooldi\OneDrive\Plocha\v5\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\ooldi\OneDrive\Plocha\v5\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.AssemblyReference.cache
+C:\Users\ooldi\OneDrive\Plocha\v5\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfoInputs.cache
+C:\Users\ooldi\OneDrive\Plocha\v5\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfo.cs
+C:\Users\ooldi\OneDrive\Plocha\v5\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.CoreCompileInputs.cache
+C:\Users\ooldi\OneDrive\Plocha\v5\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\ooldi\OneDrive\Plocha\v5\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\ooldi\OneDrive\Plocha\v5\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.genruntimeconfig.cache
+O:\midnight com\v8\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.exe
+O:\midnight com\v8\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.deps.json
+O:\midnight com\v8\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.json
+O:\midnight com\v8\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.dev.json
+O:\midnight com\v8\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+O:\midnight com\v8\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+O:\midnight com\v8\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.AssemblyReference.cache
+O:\midnight com\v8\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfoInputs.cache
+O:\midnight com\v8\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfo.cs
+O:\midnight com\v8\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.CoreCompileInputs.cache
+O:\midnight com\v8\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+O:\midnight com\v8\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+O:\midnight com\v8\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.genruntimeconfig.cache
+C:\Users\ooldi\OneDrive\Plocha\v8\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.AssemblyReference.cache
+C:\Users\ooldi\OneDrive\Plocha\v8\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfoInputs.cache
+C:\Users\ooldi\OneDrive\Plocha\v8\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfo.cs
+C:\Users\ooldi\OneDrive\Plocha\v8\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.CoreCompileInputs.cache
+C:\Users\ooldi\OneDrive\Plocha\v8\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\ooldi\OneDrive\Plocha\v8\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\ooldi\OneDrive\Plocha\v8\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.exe
+C:\Users\ooldi\OneDrive\Plocha\v8\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.deps.json
+C:\Users\ooldi\OneDrive\Plocha\v8\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.json
+C:\Users\ooldi\OneDrive\Plocha\v8\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.dev.json
+C:\Users\ooldi\OneDrive\Plocha\v8\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\ooldi\OneDrive\Plocha\v8\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\ooldi\OneDrive\Plocha\v8\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.genruntimeconfig.cache
+C:\Users\ooldi\OneDrive\Plocha\V9\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.exe
+C:\Users\ooldi\OneDrive\Plocha\V9\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.deps.json
+C:\Users\ooldi\OneDrive\Plocha\V9\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.json
+C:\Users\ooldi\OneDrive\Plocha\V9\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.dev.json
+C:\Users\ooldi\OneDrive\Plocha\V9\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\ooldi\OneDrive\Plocha\V9\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\ooldi\OneDrive\Plocha\V9\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.AssemblyReference.cache
+C:\Users\ooldi\OneDrive\Plocha\V9\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfoInputs.cache
+C:\Users\ooldi\OneDrive\Plocha\V9\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfo.cs
+C:\Users\ooldi\OneDrive\Plocha\V9\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.CoreCompileInputs.cache
+C:\Users\ooldi\OneDrive\Plocha\V9\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\ooldi\OneDrive\Plocha\V9\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\ooldi\OneDrive\Plocha\V9\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.genruntimeconfig.cache
+C:\Users\ooldi\OneDrive\Plocha\midnightcom\V9\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.AssemblyReference.cache
+C:\Users\ooldi\OneDrive\Plocha\midnightcom\V9\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfoInputs.cache
+C:\Users\ooldi\OneDrive\Plocha\midnightcom\V9\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfo.cs
+C:\Users\ooldi\OneDrive\Plocha\midnightcom\V9\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.CoreCompileInputs.cache
+C:\Users\ooldi\OneDrive\Plocha\midnightcom\V9\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\ooldi\OneDrive\Plocha\midnightcom\V9\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\ooldi\OneDrive\Plocha\midnightcom\V9\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.exe
+C:\Users\ooldi\OneDrive\Plocha\midnightcom\V9\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.deps.json
+C:\Users\ooldi\OneDrive\Plocha\midnightcom\V9\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.json
+C:\Users\ooldi\OneDrive\Plocha\midnightcom\V9\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.dev.json
+C:\Users\ooldi\OneDrive\Plocha\midnightcom\V9\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\ooldi\OneDrive\Plocha\midnightcom\V9\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\ooldi\OneDrive\Plocha\midnightcom\V9\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.genruntimeconfig.cache
+C:\Users\Herní Dělo\Desktop\V11\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.exe
+C:\Users\Herní Dělo\Desktop\V11\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.deps.json
+C:\Users\Herní Dělo\Desktop\V11\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.json
+C:\Users\Herní Dělo\Desktop\V11\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.dev.json
+C:\Users\Herní Dělo\Desktop\V11\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\Herní Dělo\Desktop\V11\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\Herní Dělo\Desktop\V11\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csprojAssemblyReference.cache
+C:\Users\Herní Dělo\Desktop\V11\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfoInputs.cache
+C:\Users\Herní Dělo\Desktop\V11\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfo.cs
+C:\Users\Herní Dělo\Desktop\V11\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.CoreCompileInputs.cache
+C:\Users\Herní Dělo\Desktop\V11\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\Herní Dělo\Desktop\V11\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\Herní Dělo\Desktop\V11\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.genruntimeconfig.cache
+C:\Users\ooldi\OneDrive\Plocha\V11\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.exe
+C:\Users\ooldi\OneDrive\Plocha\V11\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.deps.json
+C:\Users\ooldi\OneDrive\Plocha\V11\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.json
+C:\Users\ooldi\OneDrive\Plocha\V11\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.dev.json
+C:\Users\ooldi\OneDrive\Plocha\V11\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\ooldi\OneDrive\Plocha\V11\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\ooldi\OneDrive\Plocha\V11\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.AssemblyReference.cache
+C:\Users\ooldi\OneDrive\Plocha\V11\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfoInputs.cache
+C:\Users\ooldi\OneDrive\Plocha\V11\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfo.cs
+C:\Users\ooldi\OneDrive\Plocha\V11\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.CoreCompileInputs.cache
+C:\Users\ooldi\OneDrive\Plocha\V11\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\ooldi\OneDrive\Plocha\V11\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\ooldi\OneDrive\Plocha\V11\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.genruntimeconfig.cache
+C:\Users\psotkaoldrich\Desktop\v12\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.exe
+C:\Users\psotkaoldrich\Desktop\v12\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.deps.json
+C:\Users\psotkaoldrich\Desktop\v12\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.json
+C:\Users\psotkaoldrich\Desktop\v12\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.dev.json
+C:\Users\psotkaoldrich\Desktop\v12\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\psotkaoldrich\Desktop\v12\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\psotkaoldrich\Desktop\v12\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.AssemblyReference.cache
+C:\Users\psotkaoldrich\Desktop\v12\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\psotkaoldrich\Desktop\v12\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfoInputs.cache
+C:\Users\psotkaoldrich\Desktop\v12\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfo.cs
+C:\Users\psotkaoldrich\Desktop\v12\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.CoreCompileInputs.cache
+C:\Users\psotkaoldrich\Desktop\v12\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\psotkaoldrich\Desktop\v12\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\psotkaoldrich\Desktop\v12\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.genruntimeconfig.cache
+C:\Users\psotkaoldrich\Desktop\v13\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.exe
+C:\Users\psotkaoldrich\Desktop\v13\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.deps.json
+C:\Users\psotkaoldrich\Desktop\v13\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.json
+C:\Users\psotkaoldrich\Desktop\v13\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.dev.json
+C:\Users\psotkaoldrich\Desktop\v13\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\psotkaoldrich\Desktop\v13\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\psotkaoldrich\Desktop\v13\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.AssemblyReference.cache
+C:\Users\psotkaoldrich\Desktop\v13\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\psotkaoldrich\Desktop\v13\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfoInputs.cache
+C:\Users\psotkaoldrich\Desktop\v13\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfo.cs
+C:\Users\psotkaoldrich\Desktop\v13\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.CoreCompileInputs.cache
+C:\Users\psotkaoldrich\Desktop\v13\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\psotkaoldrich\Desktop\v13\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\psotkaoldrich\Desktop\v13\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.genruntimeconfig.cache
+C:\Users\ooldi\OneDrive\Plocha\v15\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.AssemblyReference.cache
+C:\Users\ooldi\OneDrive\Plocha\v15\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfoInputs.cache
+C:\Users\ooldi\OneDrive\Plocha\v15\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfo.cs
+C:\Users\ooldi\OneDrive\Plocha\v15\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.CoreCompileInputs.cache
+C:\Users\ooldi\OneDrive\Plocha\v15\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\ooldi\OneDrive\Plocha\v15\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\ooldi\OneDrive\Plocha\v15\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.exe
+C:\Users\ooldi\OneDrive\Plocha\v15\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.deps.json
+C:\Users\ooldi\OneDrive\Plocha\v15\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.json
+C:\Users\ooldi\OneDrive\Plocha\v15\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.dev.json
+C:\Users\ooldi\OneDrive\Plocha\v15\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\ooldi\OneDrive\Plocha\v15\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\ooldi\OneDrive\Plocha\v15\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.genruntimeconfig.cache
+C:\Users\psotkaoldrich\Desktop\v16\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.AssemblyReference.cache
+C:\Users\psotkaoldrich\Desktop\v16\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\psotkaoldrich\Desktop\v16\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfoInputs.cache
+C:\Users\psotkaoldrich\Desktop\v16\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfo.cs
+C:\Users\psotkaoldrich\Desktop\v16\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.CoreCompileInputs.cache
+C:\Users\psotkaoldrich\Desktop\v16\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\psotkaoldrich\Desktop\v16\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\psotkaoldrich\Desktop\v16\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.exe
+C:\Users\psotkaoldrich\Desktop\v16\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.deps.json
+C:\Users\psotkaoldrich\Desktop\v16\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.json
+C:\Users\psotkaoldrich\Desktop\v16\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.dev.json
+C:\Users\psotkaoldrich\Desktop\v16\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\psotkaoldrich\Desktop\v16\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\psotkaoldrich\Desktop\v16\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.genruntimeconfig.cache
+C:\Users\psotkaoldrich\Desktop\v17\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.exe
+C:\Users\psotkaoldrich\Desktop\v17\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.deps.json
+C:\Users\psotkaoldrich\Desktop\v17\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.json
+C:\Users\psotkaoldrich\Desktop\v17\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.dev.json
+C:\Users\psotkaoldrich\Desktop\v17\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\psotkaoldrich\Desktop\v17\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\psotkaoldrich\Desktop\v17\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.AssemblyReference.cache
+C:\Users\psotkaoldrich\Desktop\v17\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\psotkaoldrich\Desktop\v17\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfoInputs.cache
+C:\Users\psotkaoldrich\Desktop\v17\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfo.cs
+C:\Users\psotkaoldrich\Desktop\v17\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.CoreCompileInputs.cache
+C:\Users\psotkaoldrich\Desktop\v17\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\psotkaoldrich\Desktop\v17\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\psotkaoldrich\Desktop\v17\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.genruntimeconfig.cache
+C:\Users\ooldi\OneDrive\Plocha\v18\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.exe
+C:\Users\ooldi\OneDrive\Plocha\v18\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.deps.json
+C:\Users\ooldi\OneDrive\Plocha\v18\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.json
+C:\Users\ooldi\OneDrive\Plocha\v18\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.dev.json
+C:\Users\ooldi\OneDrive\Plocha\v18\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\ooldi\OneDrive\Plocha\v18\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\ooldi\OneDrive\Plocha\v18\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.AssemblyReference.cache
+C:\Users\ooldi\OneDrive\Plocha\v18\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfoInputs.cache
+C:\Users\ooldi\OneDrive\Plocha\v18\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfo.cs
+C:\Users\ooldi\OneDrive\Plocha\v18\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.CoreCompileInputs.cache
+C:\Users\ooldi\OneDrive\Plocha\v18\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\ooldi\OneDrive\Plocha\v18\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\ooldi\OneDrive\Plocha\v18\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.genruntimeconfig.cache
+C:\Users\ooldi\OneDrive\Plocha\19\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.exe
+C:\Users\ooldi\OneDrive\Plocha\19\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.deps.json
+C:\Users\ooldi\OneDrive\Plocha\19\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.json
+C:\Users\ooldi\OneDrive\Plocha\19\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.dev.json
+C:\Users\ooldi\OneDrive\Plocha\19\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\ooldi\OneDrive\Plocha\19\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\ooldi\OneDrive\Plocha\19\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.AssemblyReference.cache
+C:\Users\ooldi\OneDrive\Plocha\19\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfoInputs.cache
+C:\Users\ooldi\OneDrive\Plocha\19\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfo.cs
+C:\Users\ooldi\OneDrive\Plocha\19\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.CoreCompileInputs.cache
+C:\Users\ooldi\OneDrive\Plocha\19\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\ooldi\OneDrive\Plocha\19\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\ooldi\OneDrive\Plocha\19\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.genruntimeconfig.cache
+C:\Users\psotkaoldrich\Desktop\v20\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.exe
+C:\Users\psotkaoldrich\Desktop\v20\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.deps.json
+C:\Users\psotkaoldrich\Desktop\v20\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.json
+C:\Users\psotkaoldrich\Desktop\v20\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.dev.json
+C:\Users\psotkaoldrich\Desktop\v20\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\psotkaoldrich\Desktop\v20\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\psotkaoldrich\Desktop\v20\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.AssemblyReference.cache
+C:\Users\psotkaoldrich\Desktop\v20\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\psotkaoldrich\Desktop\v20\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfoInputs.cache
+C:\Users\psotkaoldrich\Desktop\v20\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfo.cs
+C:\Users\psotkaoldrich\Desktop\v20\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.CoreCompileInputs.cache
+C:\Users\psotkaoldrich\Desktop\v20\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\psotkaoldrich\Desktop\v20\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\psotkaoldrich\Desktop\v20\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.genruntimeconfig.cache
+C:\Users\psotkaoldrich\Desktop\v21\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.exe
+C:\Users\psotkaoldrich\Desktop\v21\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.deps.json
+C:\Users\psotkaoldrich\Desktop\v21\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.json
+C:\Users\psotkaoldrich\Desktop\v21\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.dev.json
+C:\Users\psotkaoldrich\Desktop\v21\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\psotkaoldrich\Desktop\v21\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\psotkaoldrich\Desktop\v21\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.AssemblyReference.cache
+C:\Users\psotkaoldrich\Desktop\v21\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\psotkaoldrich\Desktop\v21\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfoInputs.cache
+C:\Users\psotkaoldrich\Desktop\v21\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfo.cs
+C:\Users\psotkaoldrich\Desktop\v21\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.CoreCompileInputs.cache
+C:\Users\psotkaoldrich\Desktop\v21\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\psotkaoldrich\Desktop\v21\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\psotkaoldrich\Desktop\v21\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.genruntimeconfig.cache
+X:\midnight com\v22\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.exe
+X:\midnight com\v22\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.deps.json
+X:\midnight com\v22\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.json
+X:\midnight com\v22\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.dev.json
+X:\midnight com\v22\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+X:\midnight com\v22\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+X:\midnight com\v22\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.AssemblyReference.cache
+X:\midnight com\v22\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.GeneratedMSBuildEditorConfig.editorconfig
+X:\midnight com\v22\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfoInputs.cache
+X:\midnight com\v22\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfo.cs
+X:\midnight com\v22\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.CoreCompileInputs.cache
+X:\midnight com\v22\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+X:\midnight com\v22\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+X:\midnight com\v22\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.genruntimeconfig.cache
+C:\Users\ooldi\OneDrive\Plocha\v22\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.exe
+C:\Users\ooldi\OneDrive\Plocha\v22\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.deps.json
+C:\Users\ooldi\OneDrive\Plocha\v22\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.json
+C:\Users\ooldi\OneDrive\Plocha\v22\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.dev.json
+C:\Users\ooldi\OneDrive\Plocha\v22\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\ooldi\OneDrive\Plocha\v22\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\ooldi\OneDrive\Plocha\v22\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.AssemblyReference.cache
+C:\Users\ooldi\OneDrive\Plocha\v22\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfoInputs.cache
+C:\Users\ooldi\OneDrive\Plocha\v22\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfo.cs
+C:\Users\ooldi\OneDrive\Plocha\v22\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.CoreCompileInputs.cache
+C:\Users\ooldi\OneDrive\Plocha\v22\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\ooldi\OneDrive\Plocha\v22\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\ooldi\OneDrive\Plocha\v22\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.genruntimeconfig.cache
+C:\Users\Herní Dělo\Desktop\v23\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.exe
+C:\Users\Herní Dělo\Desktop\v23\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.deps.json
+C:\Users\Herní Dělo\Desktop\v23\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.json
+C:\Users\Herní Dělo\Desktop\v23\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.dev.json
+C:\Users\Herní Dělo\Desktop\v23\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\Herní Dělo\Desktop\v23\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\Herní Dělo\Desktop\v23\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csprojAssemblyReference.cache
+C:\Users\Herní Dělo\Desktop\v23\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfoInputs.cache
+C:\Users\Herní Dělo\Desktop\v23\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfo.cs
+C:\Users\Herní Dělo\Desktop\v23\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.CoreCompileInputs.cache
+C:\Users\Herní Dělo\Desktop\v23\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\Herní Dělo\Desktop\v23\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\Herní Dělo\Desktop\v23\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.genruntimeconfig.cache
+C:\Users\Herní Dělo\Desktop\v24\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.exe
+C:\Users\Herní Dělo\Desktop\v24\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.deps.json
+C:\Users\Herní Dělo\Desktop\v24\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.json
+C:\Users\Herní Dělo\Desktop\v24\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.dev.json
+C:\Users\Herní Dělo\Desktop\v24\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\Herní Dělo\Desktop\v24\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\Herní Dělo\Desktop\v24\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csprojAssemblyReference.cache
+C:\Users\Herní Dělo\Desktop\v24\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfoInputs.cache
+C:\Users\Herní Dělo\Desktop\v24\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfo.cs
+C:\Users\Herní Dělo\Desktop\v24\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.CoreCompileInputs.cache
+C:\Users\Herní Dělo\Desktop\v24\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\Herní Dělo\Desktop\v24\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\Herní Dělo\Desktop\v24\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.genruntimeconfig.cache
+C:\Users\ooldi\OneDrive\Plocha\v25\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.AssemblyReference.cache
+C:\Users\ooldi\OneDrive\Plocha\v25\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfoInputs.cache
+C:\Users\ooldi\OneDrive\Plocha\v25\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfo.cs
+C:\Users\ooldi\OneDrive\Plocha\v25\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.CoreCompileInputs.cache
+C:\Users\ooldi\OneDrive\Plocha\v25\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\ooldi\OneDrive\Plocha\v25\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\ooldi\OneDrive\Plocha\v25\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.exe
+C:\Users\ooldi\OneDrive\Plocha\v25\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.deps.json
+C:\Users\ooldi\OneDrive\Plocha\v25\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.json
+C:\Users\ooldi\OneDrive\Plocha\v25\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.dev.json
+C:\Users\ooldi\OneDrive\Plocha\v25\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\ooldi\OneDrive\Plocha\v25\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\ooldi\OneDrive\Plocha\v25\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.genruntimeconfig.cache
+C:\Users\psotkaoldrich\Desktop\v26\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.exe
+C:\Users\psotkaoldrich\Desktop\v26\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.deps.json
+C:\Users\psotkaoldrich\Desktop\v26\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.json
+C:\Users\psotkaoldrich\Desktop\v26\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.dev.json
+C:\Users\psotkaoldrich\Desktop\v26\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\psotkaoldrich\Desktop\v26\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\psotkaoldrich\Desktop\v26\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.AssemblyReference.cache
+C:\Users\psotkaoldrich\Desktop\v26\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\psotkaoldrich\Desktop\v26\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfoInputs.cache
+C:\Users\psotkaoldrich\Desktop\v26\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfo.cs
+C:\Users\psotkaoldrich\Desktop\v26\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.CoreCompileInputs.cache
+C:\Users\psotkaoldrich\Desktop\v26\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\psotkaoldrich\Desktop\v26\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\psotkaoldrich\Desktop\v26\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.genruntimeconfig.cache
+C:\Users\ooldi\OneDrive\Plocha\v27\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.exe
+C:\Users\ooldi\OneDrive\Plocha\v27\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.deps.json
+C:\Users\ooldi\OneDrive\Plocha\v27\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.json
+C:\Users\ooldi\OneDrive\Plocha\v27\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.dev.json
+C:\Users\ooldi\OneDrive\Plocha\v27\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\ooldi\OneDrive\Plocha\v27\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\ooldi\OneDrive\Plocha\v27\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.AssemblyReference.cache
+C:\Users\ooldi\OneDrive\Plocha\v27\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfoInputs.cache
+C:\Users\ooldi\OneDrive\Plocha\v27\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfo.cs
+C:\Users\ooldi\OneDrive\Plocha\v27\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.CoreCompileInputs.cache
+C:\Users\ooldi\OneDrive\Plocha\v27\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\ooldi\OneDrive\Plocha\v27\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\ooldi\OneDrive\Plocha\v27\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.genruntimeconfig.cache
+C:\Users\ooldi\OneDrive\Plocha\V28\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.exe
+C:\Users\ooldi\OneDrive\Plocha\V28\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.deps.json
+C:\Users\ooldi\OneDrive\Plocha\V28\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.json
+C:\Users\ooldi\OneDrive\Plocha\V28\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.dev.json
+C:\Users\ooldi\OneDrive\Plocha\V28\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\ooldi\OneDrive\Plocha\V28\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\ooldi\OneDrive\Plocha\V28\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.AssemblyReference.cache
+C:\Users\ooldi\OneDrive\Plocha\V28\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfoInputs.cache
+C:\Users\ooldi\OneDrive\Plocha\V28\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfo.cs
+C:\Users\ooldi\OneDrive\Plocha\V28\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.CoreCompileInputs.cache
+C:\Users\ooldi\OneDrive\Plocha\V28\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\ooldi\OneDrive\Plocha\V28\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\ooldi\OneDrive\Plocha\V28\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.genruntimeconfig.cache
+C:\Users\psotkaoldrich\Desktop\V28\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.exe
+C:\Users\psotkaoldrich\Desktop\V28\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.deps.json
+C:\Users\psotkaoldrich\Desktop\V28\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.json
+C:\Users\psotkaoldrich\Desktop\V28\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.dev.json
+C:\Users\psotkaoldrich\Desktop\V28\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\psotkaoldrich\Desktop\V28\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\psotkaoldrich\Desktop\V28\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.AssemblyReference.cache
+C:\Users\psotkaoldrich\Desktop\V28\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\psotkaoldrich\Desktop\V28\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfoInputs.cache
+C:\Users\psotkaoldrich\Desktop\V28\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfo.cs
+C:\Users\psotkaoldrich\Desktop\V28\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.CoreCompileInputs.cache
+C:\Users\psotkaoldrich\Desktop\V28\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+C:\Users\psotkaoldrich\Desktop\V28\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+C:\Users\psotkaoldrich\Desktop\V28\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.genruntimeconfig.cache
+O:\midnight com\v29\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.exe
+O:\midnight com\v29\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.deps.json
+O:\midnight com\v29\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.json
+O:\midnight com\v29\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.dev.json
+O:\midnight com\v29\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+O:\midnight com\v29\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+O:\midnight com\v29\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.AssemblyReference.cache
+O:\midnight com\v29\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.GeneratedMSBuildEditorConfig.editorconfig
+O:\midnight com\v29\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfoInputs.cache
+O:\midnight com\v29\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfo.cs
+O:\midnight com\v29\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.CoreCompileInputs.cache
+O:\midnight com\v29\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+O:\midnight com\v29\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+O:\midnight com\v29\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.genruntimeconfig.cache
+X:\Rocniky\3. Třeťák\midnight com\v29\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.exe
+X:\Rocniky\3. Třeťák\midnight com\v29\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.deps.json
+X:\Rocniky\3. Třeťák\midnight com\v29\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.json
+X:\Rocniky\3. Třeťák\midnight com\v29\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.runtimeconfig.dev.json
+X:\Rocniky\3. Třeťák\midnight com\v29\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+X:\Rocniky\3. Třeťák\midnight com\v29\Midnight Commander_Psotka\Midnight Commander_Psotka\bin\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+X:\Rocniky\3. Třeťák\midnight com\v29\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.AssemblyReference.cache
+X:\Rocniky\3. Třeťák\midnight com\v29\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.GeneratedMSBuildEditorConfig.editorconfig
+X:\Rocniky\3. Třeťák\midnight com\v29\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfoInputs.cache
+X:\Rocniky\3. Třeťák\midnight com\v29\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.AssemblyInfo.cs
+X:\Rocniky\3. Třeťák\midnight com\v29\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.csproj.CoreCompileInputs.cache
+X:\Rocniky\3. Třeťák\midnight com\v29\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.dll
+X:\Rocniky\3. Třeťák\midnight com\v29\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.pdb
+X:\Rocniky\3. Třeťák\midnight com\v29\Midnight Commander_Psotka\Midnight Commander_Psotka\obj\Debug\netcoreapp3.1\Midnight Commander_Psotka.genruntimeconfig.cache
